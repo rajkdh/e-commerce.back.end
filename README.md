@@ -48,6 +48,7 @@ node server.js
 <!-- USAGE EXAMPLES -->
 ## Usage
 
+![image](https://github.com/rajkdh/e-commerce.back.end/assets/112664790/0b50cc10-28f6-4ae1-ab4a-5318c228e370)
 
 
 <br>
